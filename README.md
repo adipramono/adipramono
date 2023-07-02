@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @adipramono
-- 👀 I’m interested in online marketing
-- 🌱 I’m currently learning GA4
+- 👀 I’m interested in making positive impacts
+- 🌱 I’m currently learning about finding ikigai
 - 💞️ I’m looking to collaborate on web develpment/online marketing project
 - 📫 To reach me, just send an email to info@adipramono.com
+- [I created my own religion at tuhan.org](https://tuhan.org)
 
 <!---
 adipramono/adipramono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
