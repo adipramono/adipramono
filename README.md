@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about finding ikigai
 - 💞️ I’m looking to collaborate on web development/online marketing project
 - 📫 To reach me, just send an email to info@adipramono.com
-- My web dev portfolio is at [adipramono.com](https://adipramono.com)
 - I created my own religion at [tuhan.org](https://tuhan.org)
 
 <!---
